@@ -1,0 +1,5 @@
+git pull
+git checkout -b desarrollo-1
+git add .
+git commit -m "Desarrollo programa primo, commandos y lista"
+git push origin desarrollo-1
